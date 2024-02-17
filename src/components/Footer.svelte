@@ -31,7 +31,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Follow Us</p>
             <a
-                href=""
+                href="https://www.instagram.com/dayattdev"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -39,7 +39,7 @@
                 Instagram</a
             >
             <a
-                href=""
+                href="https://www.youtube.com/@dayattttt"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -47,7 +47,7 @@
                 YouTube</a
             >
             <a
-                href=""
+                href="https://www.facebook.com/MHidayatullahh"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -55,7 +55,7 @@
                 Facebook</a
             >
             <a
-                href=""
+                href="https://x.com/DayatDev"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
